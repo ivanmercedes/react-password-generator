@@ -1,8 +1,8 @@
 # React random password generator
 
-Demo 🚀 [preview](https://reactpasswordgenerator.surge.sh)
+Demo 🚀 [preview](https://reactpasswordgenerator.surge.sh )
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app){:target="_blank"}.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
